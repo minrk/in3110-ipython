@@ -1,0 +1,10 @@
+cython
+ipython
+line_profiler
+matplotlib
+notebook
+numpy
+numba
+seaborn
+scipy
+snakeviz
