@@ -1,3 +1,4 @@
-import os
 import glob
-list(os.walk('/tmp'))
+import os
+import sys
+list(os.walk(sys.prefix))

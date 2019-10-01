@@ -1,5 +1,7 @@
 cython
 ipython
+ipywidgets
+jupyterlab
 line_profiler
 matplotlib
 notebook
@@ -8,3 +10,5 @@ numba
 seaborn
 scipy
 snakeviz
+sympy
+
